@@ -1,3 +1,5 @@
+package Logistic;
+
 public class Bank {
 
     private String Name;

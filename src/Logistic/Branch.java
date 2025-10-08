@@ -1,3 +1,5 @@
+package Logistic;
+
 public class Branch extends Bank {
 
     private int branchID;

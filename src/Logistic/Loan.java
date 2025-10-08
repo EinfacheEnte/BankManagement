@@ -1,3 +1,5 @@
+package Logistic;
+
 public class Loan extends Account
 {
     private int LoanID;
